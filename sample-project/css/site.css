@@ -93,6 +93,15 @@
             left: -100px;
             top: 110px;
         }
+	 .tweet-container {
+            min-width: 30px;
+            min-height: 100px;
+            margin: 0 20px;
+            position: absolute;
+            left: -100px;
+            top: 110px;
+        }
+
         .content-body{
             min-width: 400px;
         }
